@@ -10,9 +10,9 @@ Công nghệ sử dụng: Python, Apache Spark, Matplotlib
 ## Demo biểu đồ
 | Tháng                             | Biểu đồ minh hoạ                       |
 |-----------------------------------|----------------------------------------|
-| **Tháng 6**                       | <img src="Project_1_code/HTML_output/june.png" width="600"/> |
-| **Tháng 7**                       | <img src="Project_1_code/HTML_output/july.png" width="600"/>|
-| ** Sự thay đổi về nội dung tìm kiếm của người dùng tháng 6 - 7 ** | <img src="Project_1_code/HTML_output/all.png" width="600"/>|
+| **Tháng 6**                       | <img src="Project_1_code/HTML_output/june.png" width="800"/> |
+| **Tháng 7**                       | <img src="Project_1_code/HTML_output/july.png" width="800"/>|
+| **Sự thay đổi về nội dung tìm kiếm của người dùng tháng 6 - 7** | <img src="Project_1_code/HTML_output/all.png" width="800"/>|
 
 ## Nhận xét:
 - Phần lớn khán giả không thay đổi nội dung xem (70,3%)
